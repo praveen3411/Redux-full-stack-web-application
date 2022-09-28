@@ -1,0 +1,3 @@
+export const GET_APP_REQUEST = "GET/APP/REQUREST";
+export const GET_APP_SUCCESS = "GET/APP/SUCCESS";
+export const GET_APP_FAILURE = "GET/APP/FAILURE";
